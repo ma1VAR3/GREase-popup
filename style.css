@@ -1,0 +1,81 @@
+body {
+    background-color: #f9f7f7 !important;
+    height: 400px;
+    width: 300px;
+}
+
+.save {
+    font-size: 14px;
+    position: absolute;
+    top: 14px;
+    left: 14px;
+}
+
+.deleteButton {
+    font-size: 14px;
+    position: absolute;
+    top: 14px;
+    left: 14px;
+}
+
+.savedItems {
+    font-size: 14px;
+    position: absolute;
+    bottom: 14px;
+    left: 14px;
+}
+
+.next {
+    font-size: 14px;
+    position: absolute;
+    bottom: 14px;
+    right: 14px;
+}
+
+.nextSaved {
+    font-size: 14px;
+    position: absolute;
+    bottom: 14px;
+    right: 14px;
+}
+
+.backSaved {
+    font-size: 14px;
+    position: absolute;
+    bottom: 14px;
+    left: 40%;
+}
+
+.exitButton {
+    font-size: 14px;
+    position: absolute;
+    bottom: 14px;
+    left: 14px;
+}
+
+.wordContent {
+    position: relative;
+    top: 50px;
+    padding: 14px;
+}
+
+.word {
+    color: #112d4e;
+    font-size: 35px;
+}
+
+.pos {
+    color: #3f72af;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.desc {
+    color: #3f72af;
+    font-size: 14px;
+}
+
+
+.btn:hover {
+    background-color: #dbe2ef;
+}
